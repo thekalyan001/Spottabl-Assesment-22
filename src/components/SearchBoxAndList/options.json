@@ -1,0 +1,44 @@
+[
+  {
+    "firstName": "Chilmon",
+    "lastName": "Mehrotra",
+    "position": "Client Manager",
+    "email": "chilmon@spottabl.com"
+  },
+  {
+    "firstName": "Saboor",
+    "lastName": "Sirwal",
+    "position": "Requirement Success",
+    "email": "saboor@spottabl.com"
+  },
+  {
+    "firstName": "Vanishri",
+    "lastName": "Mishra",
+    "position": "Talent Aquisition specialist",
+    "email": "vaani@spottabl.com"
+  },
+  {
+    "firstName": "Priyanka",
+    "lastName": "Singh",
+    "position": "Senior Recurter",
+    "email": "priyanka@spottabl.com"
+  },
+  {
+    "firstName": "Ajit",
+    "lastName": "KP",
+    "position": "Associate Principal leadership",
+    "email": "ajit@spottabl.com"
+  },
+  {
+    "firstName": "Visya",
+    "lastName": "Nagesh",
+    "position": "Requirement Success",
+    "email": "vidya@spottabl.com"
+  },
+  {
+    "firstName": "Shilini",
+    "lastName": "Gupta",
+    "position": "Customer service executive",
+    "email": "Shilini@spottabl.com"
+  }
+]

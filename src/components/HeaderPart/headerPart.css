@@ -1,0 +1,38 @@
+.HeaderPartCont {
+  background-color: #e7f2f8;
+}
+.header {
+  display: flex;
+  flex-direction: row;
+  gap: 1.5rem;
+}
+.image-company {
+  height: 5%;
+  width: 5%;
+  margin-top: 30px;
+  margin-left: 20px;
+}
+.text-holder > h1 {
+  text-transform: uppercase;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: 32px;
+}
+.text-holder > p {
+  font-size: 18px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: -20px;
+  font-weight: bold;
+  color: slategrey;
+}
+.user_list {
+  background-color: #fff;
+  box-shadow: 2px 2px 8px rgb(204, 200, 200); /*down, vertical*/
+  border-radius: 0.3rem;
+  width: 97%;
+  margin-left: 10px;
+}
+.user_list > h2 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-left: 20px;
+  padding-top: 20px;
+}

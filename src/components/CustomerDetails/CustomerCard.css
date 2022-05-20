@@ -1,0 +1,40 @@
+.customerCard {
+  width: 80%;
+  margin-left: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  border-color: rgb(163, 48, 48);
+  z-index: -1;
+}
+
+.image-user {
+  height: 40px;
+  width: 40px;
+  margin-left: 20px;
+  border-radius: 50px;
+  text-align: center;
+  justify-content: center;
+  background-color: #d7dcff;
+  font-weight: bold;
+}
+.UserDetailText > h1 {
+  text-transform: uppercase;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: 28px;
+}
+.CustomerDetails {
+  font-size: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: -17px;
+  color: black;
+  font-weight: 12;
+}
+
+/* temp */
+.trash {
+  float: right;
+  color: blue;
+  margin-top: 10px;
+  cursor: pointer;
+}
